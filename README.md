@@ -71,5 +71,5 @@ Monitor your AWS usage to avoid unexpected charges.
 
 
 ## License
-Licensed under the MIT License. See the [LICENSE] file for details.
-(https://choosealicense.com/licenses/mit/)
+Licensed under the MIT License. See the [LICENSE](https://choosealicense.com/licenses/mit/)file for details.
+
